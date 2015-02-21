@@ -428,277 +428,72 @@
 "../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 428
 "../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 429
 "../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Intermediate/CachedAssetRegistry.bin" 430
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Blueprints/SnakeGameMode.uasset" 431
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Blueprints/SnakePartActor.uasset" 432
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Blueprints/SnakePawn.uasset" 433
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Blueprints/SnakePlayerController.uasset" 434
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Maps/SnakeMainMap.umap" 435
-"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/4/A047B50D4C15F0B5529FB3A1A80643D5.udd" 436
-"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/0/B043470143CFD7F63B8117B0A3BD4E11.udd" 437
-"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/7/35C7D27E437A3CE93D0EE8B0DCBAF4BF.udd" 438
-"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/4/CCABD312498B9FF9D42DC095797E3BA8.udd" 439
-"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/3/54854BF14AD7BE989969EAA91C30D2DD.udd" 440
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 441
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 442
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 443
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 444
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 445
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 446
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 447
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 448
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 449
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 450
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 451
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 452
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 453
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 454
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 455
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 456
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 457
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 458
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 459
-"../../../Engine/Content/Maps/Entry.umap" 460
-"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 461
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 462
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Blueprints/snakestruct.uasset" 463
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Shapes/red_TronCube.uasset" 464
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/red_tron.uasset" 465
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/tron.uasset" 466
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Pi.uasset" 467
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Gradinet_01.uasset" 468
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Blueprints/snakestates.uasset" 469
+"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Materials/blue_tron.uasset" 431
+"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/4/A047B50D4C15F0B5529FB3A1A80643D5.udd" 432
+"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/0/B043470143CFD7F63B8117B0A3BD4E11.udd" 433
+"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/7/35C7D27E437A3CE93D0EE8B0DCBAF4BF.udd" 434
+"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/4/CCABD312498B9FF9D42DC095797E3BA8.udd" 435
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 436
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 437
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 438
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 439
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 440
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 441
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 442
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 443
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 444
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 445
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 446
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 447
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 448
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 449
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 450
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 451
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 452
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 453
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 454
+"../../../Engine/Content/Maps/Entry.umap" 455
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 456
+"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Maps/SnakeMainMap.umap" 457
+"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Blueprints/SnakeGameMode.uasset" 458
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 459
+"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Blueprints/SnakePartActor.uasset" 460
+"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Blueprints/SnakePawn.uasset" 461
+"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Blueprints/snakestruct.uasset" 462
+"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Shapes/red_TronCube.uasset" 463
+"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Materials/red_tron.uasset" 464
+"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Materials/tron.uasset" 465
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Pi.uasset" 466
+"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Textures/gradine.uasset" 467
+"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Blueprints/snakestates.uasset" 468
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 469
 "../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Blueprints/WormActor.uasset" 470
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Shapes/blue_TronCube.uasset" 471
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/blue_tron.uasset" 472
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/tron-grid.uasset" 473
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/??????????.uasset" 474
+"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Shapes/blue_TronCube.uasset" 471
+"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Blueprints/SnakePlayerController.uasset" 472
+"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Materials/tron-grid.uasset" 473
+"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Textures/tron_texture.uasset" 474
 "C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_C66D053548B610513C2324A9E2435__CD850CC0DE720C39A9E71FB46EC0BAD19117F840.udd" 475
 "C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_C66D053548B610513C2324A9E2435__0ED13F34BCDC1CA41EC25F05264590E48C6A2499.udd" 476
 "C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_C66D053548B610513C2324A9E2435__42C08516DAB0AEBC9C67B4ADC0D3D6A85D16DBC5.udd" 477
-"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_106A95F845B3C82512CC6DBCF1B65__FB266884622E2BFB3BB128E4683949BE2B60C79D.udd" 478
-"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_106A95F845B3C82512CC6DBCF1B65__DA6A4D0D6ECBF0F7056C290FAD69D6058906F5A5.udd" 479
-"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_106A95F845B3C82512CC6DBCF1B65__B1E656FD76C836928E36EAD2D0211D08D747075A.udd" 480
+"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_FBCA42814A84EFE3C58CDA81922BF__B4E45C45A3002DF75D3285E9932A57403CDD2393.udd" 478
+"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_FBCA42814A84EFE3C58CDA81922BF__907E4EB56AFCF8DE1A8CEBD4124DD20F03C87728.udd" 479
+"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_FBCA42814A84EFE3C58CDA81922BF__A28A4B30457919C6CE2529B7B11839B9CAF17B71.udd" 480
 "C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_A85D275C4CD0CB2EEEED8EB0684C7__EFD35A36C8BABDE45034F3E9358D9E315DBEBCDE.udd" 481
 "C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_7028252349ACF92C702E39A7CE73CF98__28C793A1C5E1D3C7BA68B1CF27F8551A494B4FBA.udd" 482
 "C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_3F24C0C34B808529DEBE06A74935CC8__F4C45EA11C58FE7CD9A8B2C5CF832EC5933AC8FA.udd" 483
-"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_E3__E949F185C37168B2433533708E1C303E6609C2A2.udd" 484
-"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/4/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF0FA2AD91__02C0B9EBE82203C350868C1614BBC1DD9FC7C094.udd" 485
-"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/9/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF0FA2AD91__045075CB49D4AE58BB85E13EF4EF2D08B4B15775.udd" 486
+"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/0/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF4025CF59__8C35BF7251DFDDA253961698789555E6F23699FE.udd" 484
+"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/3/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF4025CF59__D8FDA441F44F78D7890668EB822079448DA89CED.udd" 485
+"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_2C1BC8F50A7A43818AFE266EB43D9060_E3__E949F185C37168B2433533708E1C303E6609C2A2.udd" 486
 "C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/3/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_2021AB5C4D2C7__5BF2E85F2F5A79DD00169BCE6DFF7831F1890812.udd" 487
 "C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/4/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_16EDB2F74FA15__A97696579ABA9E2122247D96E507B5108093E5C7.udd" 488
-"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/5/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF7FBE9E79__16373C78C8F382FCCF25B94C0F72855D309D76CE.udd" 489
-"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/8/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF7FBE9E79__801DDE869BD55E163126E473828806BB15464671.udd" 490
+"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUFE351BD19__00A41B104F04A034ED06E97F4049A1B393CABB96.udd" 489
+"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/2/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUFE351BD19__B22DDA3701F2C7840C6A7FFFBC3ED8E99C8172F9.udd" 490
 "C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/5/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_39D5033B4CCE171D08E28096613AD1D5__1_0_13075_0.udd" 491
 "C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/9/PHYSXPC_FULL_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_FE8106F943146507D4F983BE57360782.udd" 492
 "C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/2/PHYSXPC_VIS_5DF9E1AAB7CC4DCCB2965BA1A78DFE8_FE8106F943146507D4F983BE57360782.udd" 493
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/StarterMap.umap" 494
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 495
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 496
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 497
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 498
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 499
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 500
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 501
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 502
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 503
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 504
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 505
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Props/Materials/M_Lamp.uasset" 506
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Lamp_M.uasset" 507
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Lamp_N.uasset" 508
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 509
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Audio/Fire01_Cue.uasset" 510
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Audio/Fire01.uasset" 511
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Particles/P_Fire.uasset" 512
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 513
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 514
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 515
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 516
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Water_N.uasset" 517
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 518
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 519
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 520
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 521
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 522
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 523
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Audio/Smoke01_Cue.uasset" 524
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Audio/Smoke01.uasset" 525
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Particles/P_Smoke.uasset" 526
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 527
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 528
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Audio/Fire_Sparks01.uasset" 529
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Particles/P_Sparks.uasset" 530
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Particles/Materials/M_Spark.uasset" 531
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Spark_Core.uasset" 532
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 533
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Audio/Steam01_Cue.uasset" 534
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Audio/Steam01.uasset" 535
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Particles/P_Steam_Lit.uasset" 536
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 537
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 538
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 539
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 540
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 541
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 542
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 543
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 544
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_MacroVariation.uasset" 545
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 546
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 547
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 548
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 549
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 550
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 551
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 552
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 553
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 554
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 555
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 556
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 557
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 558
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 559
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 560
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 561
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 562
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 563
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 564
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 565
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 566
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 567
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 568
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 569
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 570
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 571
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 572
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 573
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 574
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 575
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 576
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 577
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 578
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 579
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 580
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 581
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 582
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 583
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 584
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 585
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 586
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 587
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 588
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 589
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 590
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 591
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Ground_Grass.uasset" 592
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 593
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 594
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 595
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 596
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 597
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Ground_Moss.uasset" 598
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 599
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 600
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 601
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 602
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 603
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 604
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 605
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Metal_Copper.uasset" 606
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 607
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Metal_Gold.uasset" 608
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 609
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Metal_Rust.uasset" 610
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 611
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 612
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Metal_Steel.uasset" 613
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 614
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 615
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 616
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 617
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 618
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 619
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 620
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 621
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 622
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Rock_Slate.uasset" 623
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 624
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 625
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 626
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 627
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 628
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 629
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 630
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 631
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 632
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 633
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 634
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Tech_Panel.uasset" 635
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 636
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 637
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Water_Lake.uasset" 638
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Water_Ocean.uasset" 639
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Water_M.uasset" 640
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 641
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 642
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 643
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 644
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 645
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 646
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Wood_Oak.uasset" 647
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 648
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 649
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Wood_Pine.uasset" 650
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 651
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 652
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 653
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 654
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 655
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Props/Materials/M_Chair.uasset" 656
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Chair_M.uasset" 657
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Chair_N.uasset" 658
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Architecture/Floor_400x400.uasset" 659
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Basic_Floor.uasset" 660
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Architecture/Wall_400x200.uasset" 661
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Basic_Wall.uasset" 662
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 663
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 664
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Audio/Collapse_Cue.uasset" 665
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Audio/Collapse01.uasset" 666
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Audio/Collapse02.uasset" 667
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 668
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Audio/Starter_Birds01.uasset" 669
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Audio/Starter_Wind05.uasset" 670
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Audio/Starter_Wind06.uasset" 671
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 672
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Audio/Starter_Music01.uasset" 673
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 674
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 675
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 676
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Props/MaterialSphere.uasset" 677
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Props/SM_Chair.uasset" 678
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Props/SM_CornerFrame.uasset" 679
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Props/Materials/M_Frame.uasset" 680
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Frame_M.uasset" 681
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Frame_N.uasset" 682
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Props/SM_DoorFrame.uasset" 683
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Props/SM_GlassWindow.uasset" 684
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Materials/M_Glass.uasset" 685
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Props/SM_PillarFrame.uasset" 686
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Props/SM_PillarFrame300.uasset" 687
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Props/SM_Statue.uasset" 688
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Props/Materials/M_Statue.uasset" 689
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Statue_M.uasset" 690
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_Statue_N.uasset" 691
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 692
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Props/SM_TableRound.uasset" 693
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Props/Materials/M_TableRound.uasset" 694
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_TableRound_M.uasset" 695
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Textures/T_TableRound_N.uasset" 696
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Props/SM_WindowFrame.uasset" 697
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Shapes/Shape_Cube.uasset" 698
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 699
-"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/StarterContent/Shapes/Shape_Sphere.uasset" 700
-"C:/Users/??????/Documents/Unreal Projects/ue4snake/Intermediate/Shaders/WorkingDirectory/4136/0/WorkerOutputOnly.out" 701
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 702
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 703
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 704
+"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Shapes/Shape_Cube.uasset" 494
+"C:/Users/??????/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/8/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_232FE4CA4BEA2__01FFE468366251FBFA2C04A63FD88B007DFC7A1F.udd" 495
+"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Materials/tron-grid_Inst.uasset" 496
+"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Maps/ThirdPersonExampleMap_C.uasset" 497
+"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Maps/ThirdPersonExampleMap.uasset" 498
+"../../../../../../Users/??????/Documents/Unreal Projects/ue4snake/Content/SnakeBP/Maps/Default__ThirdPersonExampleMap_C.uasset" 499
